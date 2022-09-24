@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Marijtje::Mode"
+  subtitle: Niederländische Modemanufaktur
+  navbar:
+    logo: assets/large-dress.png
+    left:
+      - href: index.qmd
+        text: Startseite
+      - href: beispiele.qmd
+        text: Beispiele
+      - href: service.qmd
+        text: Service
+  page-footer:
+    center: 
+      - text: "Impressum"
+        href: about.qmd
+      
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+
