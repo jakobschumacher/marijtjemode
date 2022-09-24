@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Marijtje::Mode"
-  subtitle: Niederländische Modemanufaktur
   navbar:
     logo: assets/large-dress.png
     left:
