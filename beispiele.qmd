@@ -13,3 +13,7 @@ Das ist ein Text
 
 
 Und es sieht toll aus!
+
+1. und hier ist eine Auflistung
+2. Mit einem weiteren Punkt
+3. Und noch einem Punkt
