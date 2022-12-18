@@ -2,6 +2,10 @@ project:
   type: website
   output-dir: docs
 
+# Execute freeze auto is required for github actions see: https://quarto.org/docs/publishing/github-pages.html  
+execute:
+  freeze: auto
+  
 website:
   title: "Marijtje::Mode"
   navbar:

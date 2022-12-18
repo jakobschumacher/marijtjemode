@@ -4,7 +4,7 @@
     "href": "beispiele.html",
     "title": "Beispiele",
     "section": "",
-    "text": "Das hat Marijtje produziert"
+    "text": "Das ist ein Text\n\nSo sehen Bulletpoints aus\nUnd so ein weiterer\n\nUnd es sieht toll aus!"
   },
   {
     "objectID": "index.html",
@@ -12,6 +12,13 @@
     "title": "Marijtje::Mode",
     "section": "",
     "text": "Niederländische Modemanufaktur"
+  },
+  {
+    "objectID": "index.html#das-ist-eine-überschrift-grad-2",
+    "href": "index.html#das-ist-eine-überschrift-grad-2",
+    "title": "Marijtje::Mode",
+    "section": "Das ist eine Überschrift Grad 2",
+    "text": "Das ist eine Überschrift Grad 2\n\nDas ist eine Überschrift Grad 3\nDas ist ein Text\n\nSo sehen Bulletpoints aus\nUnd so ein weiterer"
   },
   {
     "objectID": "about.html",
@@ -26,12 +33,5 @@
     "title": "Unser Service",
     "section": "",
     "text": "Die niederländische Modemanufaktur bietet an: * Brautkleider * Kinderkleider * Hosen"
-  },
-  {
-    "objectID": "index.html#das-ist-eine-überschrift-grad-2",
-    "href": "index.html#das-ist-eine-überschrift-grad-2",
-    "title": "Marijtje::Mode",
-    "section": "Das ist eine Überschrift Grad 2",
-    "text": "Das ist eine Überschrift Grad 2\n\nDas ist eine Überschrift Grad 3\nDas ist ein Text\n\nSo sehen Bulletpoints aus\nUnd so ein weiterer"
   }
 ]
